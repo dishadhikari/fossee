@@ -4,7 +4,7 @@
 
 The application provides a simple graphical interface where users can select an OpenModelica executable, specify the simulation start and stop times, validate the inputs, execute the simulation, and view the simulation output directly inside the application.
 
-Demo link- https://drive.google.com/file/d/1B24TLq56hF6Mnsds244hy4z-vCyoz6t5/view?usp=sharing\n
+Demo link- https://drive.google.com/file/d/1B24TLq56hF6Mnsds244hy4z-vCyoz6t5/view?usp=sharing \n
 Built as part of the **FOSSEE OpenModelica Internship Screening Task**.
 
 ---
